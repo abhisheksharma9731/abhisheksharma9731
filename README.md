@@ -68,9 +68,7 @@ I’m documenting my DevOps journey step by step. Each “Day” links to a hand
 
 - **Day 3+ – Advanced Bash Project**  
   🔹 Project: [Advanced Backup Script](https://github.com/abhisheksharma9731/advanced-backup-script)  
-  🔹 Added **retention policy** (delete old backups) + **alerting** on failure.  
-
-### 🚀 Coming Next  
+  🔹 Added **retention policy** (delete old backups) + **alerting** on failure.   
 
 - **Day 4 – Docker Basics & Project**
   ### 🚀 Docker + CI/CD Project
@@ -81,7 +79,8 @@ I’m documenting my DevOps journey step by step. Each “Day” links to a hand
   - Added GitHub secrets for Docker Hub authentication.
   - Published images tagged as `latest` and with `git commit SHA`.
 - [View Repository](https://github.com/abhisheksharma9731/docker-demo) | [Docker Hub Image](https://hub.docker.com/r/abhisheksharma9731/docker-demo)
- 
+
+ ### 🚀 Coming Next 
 - **Day 5 – Terraform Infrastructure as Code**  
 - **Day 6 – CI/CD with GitHub Actions & Azure DevOps**  
 - **Day 7 – Kubernetes Basics**  
