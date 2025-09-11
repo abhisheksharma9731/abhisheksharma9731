@@ -18,15 +18,15 @@ Currently expanding into **Azure Data Factory, Databricks, and Cloud-Native solu
 
 ## 📂 Featured Projects  
 
-### 🔹 [System Activity Logger](https://github.com/YOURUSER/system-activity-logger)  
+### 🔹 [System Activity Logger](https://github.com/abhisheksharma9731/system-activity-logger)  
 A Bash script that logs CPU, Memory, and Disk usage daily, with compressed archives for log rotation.  
 *Tech: Bash, Linux, Cron*
 
-### 🔹 [Basic Backup Script](https://github.com/YOURUSER/bash-backup-script)  
+### 🔹 [Basic Backup Script](https://github.com/abhisheksharma9731/bash-backup-script)  
 Simple Bash backup automation with timestamped `.tar.gz` archives and logging.  
 *Tech: Bash, ShellCheck CI*  
 
-### 🔹 [Advanced Backup Script](https://github.com/YOURUSER/advanced-backup-script)  
+### 🔹 [Advanced Backup Script](https://github.com/abhisheksharma9731/advanced-backup-script)  
 Production-ready backup solution with retention policy, logging, and failure alerts.  
 *Tech: Bash, Linux, Cron, CI/CD*  
 
@@ -45,3 +45,39 @@ Production-ready backup solution with retention policy, logging, and failure ale
 ---
 ✨ *“Automate everything, learn continuously, and share knowledge.”*
 
+---
+
+## 📚 DevOps Learning Roadmap  
+
+I’m documenting my DevOps journey step by step. Each “Day” links to a hands-on project or notes.  
+
+### ✅ Completed  
+
+- **Day 1 – Linux Fundamentals**  
+  🔹 Learned essential commands (navigation, files, logs, permissions).  
+  🔹 Project: [System Activity Logger](https://github.com/abhisheksharma9731/system-activity-logger)  
+
+- **Day 2 – Git & GitHub**  
+  🔹 Mastered Git basics (branching, merging, reverting).  
+  🔹 Learned GitHub collaboration (repos, forks, PRs, issues).  
+  🔹 Repo: *Hands-on Git collaboration examples*  
+
+- **Day 3 – Shell Scripting**  
+  🔹 Project: [Basic Backup Script](https://github.com/abhisheksharma9731/bash-backup-script)  
+  🔹 Learned defensive Bash scripting (`set -euo pipefail`).  
+
+- **Day 3+ – Advanced Bash Project**  
+  🔹 Project: [Advanced Backup Script](https://github.com/abhisheksharma9731/advanced-backup-script)  
+  🔹 Added **retention policy** (delete old backups) + **alerting** on failure.  
+
+### 🚀 Coming Next  
+
+- **Day 4 – Docker Basics & Project**  
+- **Day 5 – Terraform Infrastructure as Code**  
+- **Day 6 – CI/CD with GitHub Actions & Azure DevOps**  
+- **Day 7 – Kubernetes Basics**  
+- **Day 8 – Monitoring & Logging (Prometheus, Grafana, ELK)**  
+
+---
+
+📌 *Follow my progress → each day I’ll push new projects into GitHub!*  
