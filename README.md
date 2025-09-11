@@ -33,9 +33,8 @@ Production-ready backup solution with retention policy, logging, and failure ale
 ---
 
 ## 🏆 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?abhisheksharma9731=YOURUSER&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma9731&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksharma9731&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma9731&layout=compact&theme=tokyonight)
 
 ---
 
