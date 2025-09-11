@@ -72,7 +72,16 @@ I’m documenting my DevOps journey step by step. Each “Day” links to a hand
 
 ### 🚀 Coming Next  
 
-- **Day 4 – Docker Basics & Project**  
+- **Day 4 – Docker Basics & Project**
+  ### 🚀 Docker + CI/CD Project
+- Containerized a simple web app with Docker.
+- Created a `Dockerfile` and published image to **Docker Hub**.
+- Automated the build & push process using **GitHub Actions**:
+  - Configured `.github/workflows/docker-publish.yml`.
+  - Added GitHub secrets for Docker Hub authentication.
+  - Published images tagged as `latest` and with `git commit SHA`.
+- [View Repository](https://github.com/abhisheksharma9731/docker-demo) | [Docker Hub Image](https://hub.docker.com/r/abhisheksharma9731/docker-demo)
+ 
 - **Day 5 – Terraform Infrastructure as Code**  
 - **Day 6 – CI/CD with GitHub Actions & Azure DevOps**  
 - **Day 7 – Kubernetes Basics**  
