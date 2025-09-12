@@ -80,6 +80,33 @@ I’m documenting my DevOps journey step by step. Each “Day” links to a hand
   - Published images tagged as `latest` and with `git commit SHA`.
 - [View Repository](https://github.com/abhisheksharma9731/docker-demo) | [Docker Hub Image](https://hub.docker.com/r/abhisheksharma9731/docker-demo)
 
+
+### ✅ Completed  
+- [x] Mastered Linux basics & shell scripting  
+- [x] Built and managed AWS services (EC2, S3, IAM, VPC, etc.)  
+- [x] Automated infrastructure with Terraform & Ansible  
+- [x] Created and optimized CI/CD pipelines with GitHub Actions & Azure DevOps  
+- [x] Containerized apps with Docker (multi-stage builds, Docker Hub publishing)  
+
+### 🚧 In Progress  
+- [ ] Docker Compose for multi-container environments  
+- [ ] Kubernetes fundamentals (pods, deployments, services)  
+- [ ] Monitoring & observability (Prometheus, Grafana, ELK)  
+- [ ] Azure Data Factory & Databricks (for cloud data pipelines)  
+
+### 🔜 Next Steps  
+- [ ] Kubernetes deployment pipelines with Helm & GitHub Actions  
+- [ ] Infrastructure as Code projects with Terraform + Azure/AWS  
+- [ ] Secrets management (Vault / SOPS / AWS KMS)  
+- [ ] Cloud-native security & compliance (Trivy, Snyk, Aqua)  
+
+### 🌟 Future Goals  
+- [ ] Advanced Kubernetes (operators, service mesh, scaling strategies)  
+- [ ] Hybrid & multi-cloud deployments (Azure + AWS)  
+- [ ] Build real-world end-to-end DevOps project portfolio  
+- [ ] Contribute to open-source DevOps tools  
+
+
  ### 🚀 Coming Next 
 - **Day 5 – Terraform Infrastructure as Code**  
 - **Day 6 – CI/CD with GitHub Actions & Azure DevOps**  
