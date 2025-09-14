@@ -30,9 +30,15 @@ This profile is my **learning + project roadmap**, showing how I’m growing ste
   - GitHub Actions workflow for CI (`compose-ci.yml`)
   - DockerHub publishing workflow (`docker-publish.yml`)
   - Health check endpoints (`/` and `/db`) to test app + DB connectivity
+## 🚀 Kubernetes Projects
+- **Flask K8s Demo** → Containerized Flask app deployed on Kubernetes using:
+  - **Deployment & Service manifests**
+  - **Minikube for local testing**
+  - **DockerHub + GitHub Actions CI/CD** for automated image builds
+- Next Goal: Add PostgreSQL to Kubernetes and connect Flask ↔ DB inside the cluster
+
 
 ### 🔜 Next
-- Kubernetes (local setup with Minikube, deployments, services)
 - Infrastructure as Code (Terraform on AWS/Azure)
 - CI/CD Pipelines (Azure DevOps, Jenkins)
 - Monitoring & Logging (Prometheus, Grafana, ELK)
